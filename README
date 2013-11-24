@@ -1,5 +1,7 @@
-This directory contains the C implementation of Metric-FF, as it was
-used in the 3rd international planning competition. Build the planner
+This directory contains the C implementation of Abstract Metric-FF, 
+as it was used to generate abstractions to decrease the computational
+overhead of the planning process. This planner has been built using 
+the version 2.1 of Metric-FF created by Joerg Hoffmann. Build the planner
 by typing
 
 make
@@ -15,6 +17,7 @@ problem files.
 
 Have fun,
 
-Joerg Hoffmann
+Moisés Martínez
+
 
 
